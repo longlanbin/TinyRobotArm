@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11   CMakeFiles/robotController.dir/startup.cpp.o  -o ../../bin/robotController -rdynamic ../../lib/libRobot.so -Wl,-rpath,/home/llb/myRobotController/lib 

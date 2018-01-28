@@ -1,0 +1,10 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/robotController.dir/startup.cpp.o"
+  "../../bin/robotController.pdb"
+  "../../bin/robotController"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/robotController.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

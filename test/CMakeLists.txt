@@ -1,0 +1,2 @@
+add_executable(robotController startup.cpp)
+target_link_libraries(robotController libRobot)
